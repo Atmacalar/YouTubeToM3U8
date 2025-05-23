@@ -1,39 +1,45 @@
 name: LinkGrabber
 
 on:
+  # Her 3 saatte bir otomatik çalışsın, ayrıca elle tetiklenebilir
   schedule:
-    # Her 3 saatte bir çalışsın
     - cron: '0 */3 * * *'
-  workflow_dispatch:          # Elle tetikleme
+  workflow_dispatch:
   pull_request:
     branches: [ main ]
 
 jobs:
   runCode:
     runs-on: ubuntu-latest
-
     steps:
-      # Kaynak kodu çek
+      # Kaynağı çek
       - uses: actions/checkout@v2
 
-      # 1) yt-dlp kur – eski youtube-dl varsa kaldır
+      # 1) yt-dlp’yi kur – eski youtube-dl varsa kaldır
       - name: Install yt-dlp
         run: |
           python -m pip install --upgrade yt-dlp
           python -m pip uninstall -y youtube-dl || true
 
-      # 2) yt-dlp'yi youtube-dl adıyla da erişilebilir yap
+      # 2) yt-dlp’yi youtube-dl adıyla da erişilebilir yap
       - name: Make yt-dlp act as youtube-dl
         run: ln -sf "$(command -v yt-dlp)" ~/.local/bin/youtube-dl
 
-      # 3) M3U + EPG dosyalarını üret, commit et ve pushla
+      # 3) M3U + EPG dosyalarını üret, sadece değişiklik varsa commit & push
       - name: Grab Link
         run: |
           git config --global user.email "dp247@hll.localhost"
           git config --global user.name  "dp247"
           chmod +x exec_grabber.sh
           ./exec_grabber.sh
-          git add -A
-          git commit -m "youtubeLink.txt is updated."
-          git push
 
+          # Dosyaları sahnele
+          git add -A
+
+          # Çalışma ağacında fark varsa commit et → aksi halde atla
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "youtubeLink.txt is updated."
+            git push
+          else
+            echo "No changes – skipping commit."
+          fi
