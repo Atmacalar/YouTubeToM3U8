@@ -2,27 +2,31 @@ name: LinkGrabber
 
 on:
   schedule:
-    - cron: '0 */3 * * *'
-
+    - cron: '0 */3 * * *'      # her 3 saatte bir
+  workflow_dispatch:            # elle tetikleme
   pull_request:
     branches: [ main ]
 
-  workflow_dispatch:
 jobs:
-
   runCode:
-
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
 
-      - name: Grab Link
+      # ──▶ YENİ: Güncel indirme aracı
+      - name: Install yt-dlp
+        run: |
+          python -m pip install --upgrade yt-dlp     # yt-dlp'yi kur
+          python -m pip uninstall -y youtube-dl || true  # varsa eski youtube-dl'yi kaldır
 
+      - name: Grab Link
         run: |
           git config --global user.email "dp247@hll.localhost"
-          git config --global user.name "dp247"
-          chmod +x exec_grabber.sh && ./exec_grabber.sh
+          git config --global user.name  "dp247"
+          chmod +x exec_grabber.sh
+          ./exec_grabber.sh
           git add -A
-          git commit -m "./youtubeLink.txt is updated."
+          git commit -m "youtubeLink.txt is updated."
           git push
+
