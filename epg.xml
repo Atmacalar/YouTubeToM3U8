@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="Avex.yt">
+    <display-name lang="en">Avex J-Pop 24/7</display-name>
+  </channel>
+  <programme channel="Avex.yt" start="20250721000000 +0100" stop="20250721030000 +0100">
+    <title lang="en">[J-POP] avex 24/7 Music Live (24時間365日 音楽ラジオ・24/7 Music Radio)</title>
+    <desc lang="en">avex channelがお送りする24時間365日 ノンストップのJ-POP音楽ラジオ番組です。--------------------------------------------------------------[本放送の店舗・施設でのBGM利用に関して]お問い合わせを多数頂きましたカフェや美容室、スポ...</desc>
+    <icon src="https://i.ytimg.com/vi/tr77RbnfYIU/maxresdefault.jpg?v=680eed46"/>
+  </programme>
+  <programme channel="Avex.yt" start="20250721030000 +0100" stop="20250721060000 +0100">
+    <title lang="en">[J-POP] avex 24/7 Music Live (24時間365日 音楽ラジオ・24/7 Music Radio)</title>
+    <desc lang="en">avex channelがお送りする24時間365日 ノンストップのJ-POP音楽ラジオ番組です。--------------------------------------------------------------[本放送の店舗・施設でのBGM利用に関して]お問い合わせを多数頂きましたカフェや美容室、スポ...</desc>
+    <icon src="https://i.ytimg.com/vi/tr77RbnfYIU/maxresdefault.jpg?v=680eed46"/>
+  </programme>
+  <programme channel="Avex.yt" start="20250721060000 +0100" stop="20250721090000 +0100">
+    <title lang="en">[J-POP] avex 24/7 Music Live (24時間365日 音楽ラジオ・24/7 Music Radio)</title>
+    <desc lang="en">avex channelがお送りする24時間365日 ノンストップのJ-POP音楽ラジオ番組です。--------------------------------------------------------------[本放送の店舗・施設でのBGM利用に関して]お問い合わせを多数頂きましたカフェや美容室、スポ...</desc>
+    <icon src="https://i.ytimg.com/vi/tr77RbnfYIU/maxresdefault.jpg?v=680eed46"/>
+  </programme>
+  <programme channel="Avex.yt" start="20250721090000 +0100" stop="20250721120000 +0100">
+    <title lang="en">[J-POP] avex 24/7 Music Live (24時間365日 音楽ラジオ・24/7 Music Radio)</title>
+    <desc lang="en">avex channelがお送りする24時間365日 ノンストップのJ-POP音楽ラジオ番組です。--------------------------------------------------------------[本放送の店舗・施設でのBGM利用に関して]お問い合わせを多数頂きましたカフェや美容室、スポ...</desc>
+    <icon src="https://i.ytimg.com/vi/tr77RbnfYIU/maxresdefault.jpg?v=680eed46"/>
+  </programme>
+  <programme channel="Avex.yt" start="20250721120000 +0100" stop="20250721150000 +0100">
+    <title lang="en">[J-POP] avex 24/7 Music Live (24時間365日 音楽ラジオ・24/7 Music Radio)</title>
+    <desc lang="en">avex channelがお送りする24時間365日 ノンストップのJ-POP音楽ラジオ番組です。--------------------------------------------------------------[本放送の店舗・施設でのBGM利用に関して]お問い合わせを多数頂きましたカフェや美容室、スポ...</desc>
+    <icon src="https://i.ytimg.com/vi/tr77RbnfYIU/maxresdefault.jpg?v=680eed46"/>
+  </programme>
+  <programme channel="Avex.yt" start="20250721150000 +0100" stop="20250721180000 +0100">
+    <title lang="en">[J-POP] avex 24/7 Music Live (24時間365日 音楽ラジオ・24/7 Music Radio)</title>
+    <desc lang="en">avex channelがお送りする24時間365日 ノンストップのJ-POP音楽ラジオ番組です。--------------------------------------------------------------[本放送の店舗・施設でのBGM利用に関して]お問い合わせを多数頂きましたカフェや美容室、スポ...</desc>
+    <icon src="https://i.ytimg.com/vi/tr77RbnfYIU/maxresdefault.jpg?v=680eed46"/>
+  </programme>
+  <programme channel="Avex.yt" start="20250721180000 +0100" stop="20250721210000 +0100">
+    <title lang="en">[J-POP] avex 24/7 Music Live (24時間365日 音楽ラジオ・24/7 Music Radio)</title>
+    <desc lang="en">avex channelがお送りする24時間365日 ノンストップのJ-POP音楽ラジオ番組です。--------------------------------------------------------------[本放送の店舗・施設でのBGM利用に関して]お問い合わせを多数頂きましたカフェや美容室、スポ...</desc>
+    <icon src="https://i.ytimg.com/vi/tr77RbnfYIU/maxresdefault.jpg?v=680eed46"/>
+  </programme>
+  <programme channel="Avex.yt" start="20250721210000 +0100" stop="20250722000000 +0100">
+    <title lang="en">[J-POP] avex 24/7 Music Live (24時間365日 音楽ラジオ・24/7 Music Radio)</title>
+    <desc lang="en">avex channelがお送りする24時間365日 ノンストップのJ-POP音楽ラジオ番組です。--------------------------------------------------------------[本放送の店舗・施設でのBGM利用に関して]お問い合わせを多数頂きましたカフェや美容室、スポ...</desc>
+    <icon src="https://i.ytimg.com/vi/tr77RbnfYIU/maxresdefault.jpg?v=680eed46"/>
+  </programme>
+</tv>
