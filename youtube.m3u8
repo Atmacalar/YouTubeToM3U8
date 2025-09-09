@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="EuronewsEN.yt" tvg-name="Euronews" group-title="News", Euronews
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1757409984/ei/YJ6_aMC9H-GMmLQP_Oj3sAU/ip/52.154.131.98/id/pykpO5kQJ98.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AY1jyLOp5FZBxoRkHyvRaYWJi7LltSmb7yojUpl7dZhzLJBzlor7KhecTUoClSibpHlZHXf1wN_jCoKd/spc/l3OVKe3AGAz6RipnUQyidPRicmtSMPfq_di-Oc6YDUOST3T2hx3lgEqSXuMt5oxtn94/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJJP9BoY6qWIsasjYkR4P1M8-lYPrrnFxjdVIccXaZBWAiBCQWggqAgLjc_IxNncKlRfpwJ_p7U7dxpbjAZafOXTJQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="NDTV.yt" tvg-name="NDTV 24x7" group-title="News", NDTV 24x7
 https://www.youtube.com/watch?v=1oh9IEwBbFY
