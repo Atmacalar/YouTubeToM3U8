@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="KBSKorea.yt">
+    <display-name lang="en">KBS KOREA Live</display-name>
+  </channel>
+  <programme channel="KBSKorea.yt" start="20250912090000 +0100" stop="20250912120000 +0100">
+    <title lang="en">KBS KOREA On-Air</title>
+    <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
+    <icon src="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault.jpg?v=64925653"/>
+  </programme>
+  <programme channel="KBSKorea.yt" start="20250912120000 +0100" stop="20250912150000 +0100">
+    <title lang="en">KBS KOREA On-Air</title>
+    <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
+    <icon src="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault.jpg?v=64925653"/>
+  </programme>
+  <programme channel="KBSKorea.yt" start="20250912150000 +0100" stop="20250912180000 +0100">
+    <title lang="en">KBS KOREA On-Air</title>
+    <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
+    <icon src="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault.jpg?v=64925653"/>
+  </programme>
+  <programme channel="KBSKorea.yt" start="20250912180000 +0100" stop="20250912210000 +0100">
+    <title lang="en">KBS KOREA On-Air</title>
+    <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
+    <icon src="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault.jpg?v=64925653"/>
+  </programme>
+  <programme channel="KBSKorea.yt" start="20250912210000 +0100" stop="20250913000000 +0100">
+    <title lang="en">KBS KOREA On-Air</title>
+    <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
+    <icon src="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault.jpg?v=64925653"/>
+  </programme>
+  <programme channel="KBSKorea.yt" start="20250913000000 +0100" stop="20250913030000 +0100">
+    <title lang="en">KBS KOREA On-Air</title>
+    <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
+    <icon src="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault.jpg?v=64925653"/>
+  </programme>
+  <programme channel="KBSKorea.yt" start="20250913030000 +0100" stop="20250913060000 +0100">
+    <title lang="en">KBS KOREA On-Air</title>
+    <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
+    <icon src="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault.jpg?v=64925653"/>
+  </programme>
+  <programme channel="KBSKorea.yt" start="20250913060000 +0100" stop="20250913090000 +0100">
+    <title lang="en">KBS KOREA On-Air</title>
+    <desc lang="en">[전 세계 한국인의 중심 채널 KBS KOREA]KBS KOREA는 해외동포를 위해 KBS 뉴스, 시사, 교양, 드라마, 예능 프로그램 등을 방송하는 채널입니다. 한국과 같은 시간에 방송되는 다양한 프로그램을 전 세계에서 즐길 수 있습니다. ▶ 편성표 : https://kbswor...</desc>
+    <icon src="https://i.ytimg.com/vi/OxQQsIvJTTU/maxresdefault.jpg?v=64925653"/>
+  </programme>
+</tv>
