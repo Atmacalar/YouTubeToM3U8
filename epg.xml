@@ -2,11 +2,6 @@
   <channel id="ABCNewsAU.yt">
     <display-name lang="en">ABC News (AU)</display-name>
   </channel>
-  <programme channel="ABCNewsAU.yt" start="20250923030000 +0100" stop="20250923060000 +0100">
-    <title lang="en">Watch ABC NEWS Australia live | ABC NEWS</title>
-    <desc lang="en">Subscribe: http://ab.co/1svxLVE  Read more here: https://www.abc.net.au/news/ABC NEWS provides around the clock coverage of news events as they break in Aust...</desc>
-    <icon src="https://i.ytimg.com/vi/vOTiJkg1voo/maxresdefault.jpg?v=66d66096"/>
-  </programme>
   <programme channel="ABCNewsAU.yt" start="20250923060000 +0100" stop="20250923090000 +0100">
     <title lang="en">Watch ABC NEWS Australia live | ABC NEWS</title>
     <desc lang="en">Subscribe: http://ab.co/1svxLVE  Read more here: https://www.abc.net.au/news/ABC NEWS provides around the clock coverage of news events as they break in Aust...</desc>
@@ -38,6 +33,11 @@
     <icon src="https://i.ytimg.com/vi/vOTiJkg1voo/maxresdefault.jpg?v=66d66096"/>
   </programme>
   <programme channel="ABCNewsAU.yt" start="20250924000000 +0100" stop="20250924030000 +0100">
+    <title lang="en">Watch ABC NEWS Australia live | ABC NEWS</title>
+    <desc lang="en">Subscribe: http://ab.co/1svxLVE  Read more here: https://www.abc.net.au/news/ABC NEWS provides around the clock coverage of news events as they break in Aust...</desc>
+    <icon src="https://i.ytimg.com/vi/vOTiJkg1voo/maxresdefault.jpg?v=66d66096"/>
+  </programme>
+  <programme channel="ABCNewsAU.yt" start="20250924030000 +0100" stop="20250924060000 +0100">
     <title lang="en">Watch ABC NEWS Australia live | ABC NEWS</title>
     <desc lang="en">Subscribe: http://ab.co/1svxLVE  Read more here: https://www.abc.net.au/news/ABC NEWS provides around the clock coverage of news events as they break in Aust...</desc>
     <icon src="https://i.ytimg.com/vi/vOTiJkg1voo/maxresdefault.jpg?v=66d66096"/>
