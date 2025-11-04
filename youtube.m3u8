@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="ABCNewsAU.yt" tvg-name="ABC News (AU)" group-title="News", ABC News (AU)
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762238413/ei/bUsJaa7-BaeCruEPj4WYqA4/ip/172.215.216.215/id/vOTiJkg1voo.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5SsZGIHRDOypHmuWhKA14vc_5rsdoRpz57hK9UivzG8mFBDHgOqXeN1dL8T2GRM6sAf68iO_bDA/spc/6b0G_IiSljRfq0mOkjr0vBPtGylzU3BFuX25fnEHNBq_MqCKqe3hs8QkRnpuiNwemac/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgX9Du7C3Bh9QQ2cqgkWE9IHwEMdOrTHH62K7OhN4ZV-UCICsXSk2GkDyuOets7bEdWydpkXcpUNhSiko4dWgj6t7I/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg.yt" tvg-name="Bloomberg Global" group-title="News", Bloomberg Global
 https://www.youtube.com/watch?v=1oh9IEwBbFY
