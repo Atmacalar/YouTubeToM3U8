@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="Chillhop.yt">
+    <display-name lang="en">Chillhop Music (jazzy &amp; lofi hip hop beats)</display-name>
+  </channel>
+  <programme channel="Chillhop.yt" start="20260104180000 +0000" stop="20260104210000 +0000">
+    <title lang="en">Chillhop Radio - jazzy &amp; lofi hip hop beats 🐾</title>
+    <desc lang="en">Welcome to the Chillhop Radio, playing the best jazzy / lofi hip hop beats from our label to get you through your day. Enjoy your stay! 🐾❄️ Add the Chillhop...</desc>
+    <icon src="https://i.ytimg.com/vi/5yx6BWlEVcY/maxresdefault.jpg?v=619bed98"/>
+  </programme>
+  <programme channel="Chillhop.yt" start="20260104210000 +0000" stop="20260105000000 +0000">
+    <title lang="en">Chillhop Radio - jazzy &amp; lofi hip hop beats 🐾</title>
+    <desc lang="en">Welcome to the Chillhop Radio, playing the best jazzy / lofi hip hop beats from our label to get you through your day. Enjoy your stay! 🐾❄️ Add the Chillhop...</desc>
+    <icon src="https://i.ytimg.com/vi/5yx6BWlEVcY/maxresdefault.jpg?v=619bed98"/>
+  </programme>
+  <programme channel="Chillhop.yt" start="20260105000000 +0000" stop="20260105030000 +0000">
+    <title lang="en">Chillhop Radio - jazzy &amp; lofi hip hop beats 🐾</title>
+    <desc lang="en">Welcome to the Chillhop Radio, playing the best jazzy / lofi hip hop beats from our label to get you through your day. Enjoy your stay! 🐾❄️ Add the Chillhop...</desc>
+    <icon src="https://i.ytimg.com/vi/5yx6BWlEVcY/maxresdefault.jpg?v=619bed98"/>
+  </programme>
+  <programme channel="Chillhop.yt" start="20260105030000 +0000" stop="20260105060000 +0000">
+    <title lang="en">Chillhop Radio - jazzy &amp; lofi hip hop beats 🐾</title>
+    <desc lang="en">Welcome to the Chillhop Radio, playing the best jazzy / lofi hip hop beats from our label to get you through your day. Enjoy your stay! 🐾❄️ Add the Chillhop...</desc>
+    <icon src="https://i.ytimg.com/vi/5yx6BWlEVcY/maxresdefault.jpg?v=619bed98"/>
+  </programme>
+  <programme channel="Chillhop.yt" start="20260105060000 +0000" stop="20260105090000 +0000">
+    <title lang="en">Chillhop Radio - jazzy &amp; lofi hip hop beats 🐾</title>
+    <desc lang="en">Welcome to the Chillhop Radio, playing the best jazzy / lofi hip hop beats from our label to get you through your day. Enjoy your stay! 🐾❄️ Add the Chillhop...</desc>
+    <icon src="https://i.ytimg.com/vi/5yx6BWlEVcY/maxresdefault.jpg?v=619bed98"/>
+  </programme>
+  <programme channel="Chillhop.yt" start="20260105090000 +0000" stop="20260105120000 +0000">
+    <title lang="en">Chillhop Radio - jazzy &amp; lofi hip hop beats 🐾</title>
+    <desc lang="en">Welcome to the Chillhop Radio, playing the best jazzy / lofi hip hop beats from our label to get you through your day. Enjoy your stay! 🐾❄️ Add the Chillhop...</desc>
+    <icon src="https://i.ytimg.com/vi/5yx6BWlEVcY/maxresdefault.jpg?v=619bed98"/>
+  </programme>
+  <programme channel="Chillhop.yt" start="20260105120000 +0000" stop="20260105150000 +0000">
+    <title lang="en">Chillhop Radio - jazzy &amp; lofi hip hop beats 🐾</title>
+    <desc lang="en">Welcome to the Chillhop Radio, playing the best jazzy / lofi hip hop beats from our label to get you through your day. Enjoy your stay! 🐾❄️ Add the Chillhop...</desc>
+    <icon src="https://i.ytimg.com/vi/5yx6BWlEVcY/maxresdefault.jpg?v=619bed98"/>
+  </programme>
+  <programme channel="Chillhop.yt" start="20260105150000 +0000" stop="20260105180000 +0000">
+    <title lang="en">Chillhop Radio - jazzy &amp; lofi hip hop beats 🐾</title>
+    <desc lang="en">Welcome to the Chillhop Radio, playing the best jazzy / lofi hip hop beats from our label to get you through your day. Enjoy your stay! 🐾❄️ Add the Chillhop...</desc>
+    <icon src="https://i.ytimg.com/vi/5yx6BWlEVcY/maxresdefault.jpg?v=619bed98"/>
+  </programme>
+</tv>
