@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="CNA.yt">
+    <display-name lang="en">CNA</display-name>
+  </channel>
+  <programme channel="CNA.yt" start="20260403150000 +0100" stop="20260403180000 +0100">
+    <title lang="en">[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows</title>
+    <desc lang="en">Stay informed around the clock with CNA’s 24-hour coverage, bringing you the latest headlines from Singapore, Asia, and beyond. Dive deeper into regional sto...</desc>
+    <icon src="https://i.ytimg.com/vi/XWq5kBlakcQ/maxresdefault.jpg?v=69888c1a"/>
+  </programme>
+  <programme channel="CNA.yt" start="20260403180000 +0100" stop="20260403210000 +0100">
+    <title lang="en">[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows</title>
+    <desc lang="en">Stay informed around the clock with CNA’s 24-hour coverage, bringing you the latest headlines from Singapore, Asia, and beyond. Dive deeper into regional sto...</desc>
+    <icon src="https://i.ytimg.com/vi/XWq5kBlakcQ/maxresdefault.jpg?v=69888c1a"/>
+  </programme>
+  <programme channel="CNA.yt" start="20260403210000 +0100" stop="20260404000000 +0100">
+    <title lang="en">[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows</title>
+    <desc lang="en">Stay informed around the clock with CNA’s 24-hour coverage, bringing you the latest headlines from Singapore, Asia, and beyond. Dive deeper into regional sto...</desc>
+    <icon src="https://i.ytimg.com/vi/XWq5kBlakcQ/maxresdefault.jpg?v=69888c1a"/>
+  </programme>
+  <programme channel="CNA.yt" start="20260404000000 +0100" stop="20260404030000 +0100">
+    <title lang="en">[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows</title>
+    <desc lang="en">Stay informed around the clock with CNA’s 24-hour coverage, bringing you the latest headlines from Singapore, Asia, and beyond. Dive deeper into regional sto...</desc>
+    <icon src="https://i.ytimg.com/vi/XWq5kBlakcQ/maxresdefault.jpg?v=69888c1a"/>
+  </programme>
+  <programme channel="CNA.yt" start="20260404030000 +0100" stop="20260404060000 +0100">
+    <title lang="en">[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows</title>
+    <desc lang="en">Stay informed around the clock with CNA’s 24-hour coverage, bringing you the latest headlines from Singapore, Asia, and beyond. Dive deeper into regional sto...</desc>
+    <icon src="https://i.ytimg.com/vi/XWq5kBlakcQ/maxresdefault.jpg?v=69888c1a"/>
+  </programme>
+  <programme channel="CNA.yt" start="20260404060000 +0100" stop="20260404090000 +0100">
+    <title lang="en">[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows</title>
+    <desc lang="en">Stay informed around the clock with CNA’s 24-hour coverage, bringing you the latest headlines from Singapore, Asia, and beyond. Dive deeper into regional sto...</desc>
+    <icon src="https://i.ytimg.com/vi/XWq5kBlakcQ/maxresdefault.jpg?v=69888c1a"/>
+  </programme>
+  <programme channel="CNA.yt" start="20260404090000 +0100" stop="20260404120000 +0100">
+    <title lang="en">[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows</title>
+    <desc lang="en">Stay informed around the clock with CNA’s 24-hour coverage, bringing you the latest headlines from Singapore, Asia, and beyond. Dive deeper into regional sto...</desc>
+    <icon src="https://i.ytimg.com/vi/XWq5kBlakcQ/maxresdefault.jpg?v=69888c1a"/>
+  </programme>
+  <programme channel="CNA.yt" start="20260404120000 +0100" stop="20260404150000 +0100">
+    <title lang="en">[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows</title>
+    <desc lang="en">Stay informed around the clock with CNA’s 24-hour coverage, bringing you the latest headlines from Singapore, Asia, and beyond. Dive deeper into regional sto...</desc>
+    <icon src="https://i.ytimg.com/vi/XWq5kBlakcQ/maxresdefault.jpg?v=69888c1a"/>
+  </programme>
+</tv>
