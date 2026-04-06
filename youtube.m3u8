@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="CNA.yt" tvg-name="CNA" group-title="News", CNA
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775459276/ei/bAfTabaEFaGUir4P4LjmqAU/ip/64.236.144.97/id/XWq5kBlakcQ.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51811607/txs/51811605%2C51811607/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AUUZDGLWHzsn-Lem1k-UUEAUz59jKZqa-GOQuDq15hNQdfs48TNJfulkMGBinoTEzTwyL7MXCJhR_E_y/spc/jlWavWjAIHfAuokYrY7y_gEhOP2xUtsjdY8_z8F-LV4WKHp1-xXobK4zhhJWBTND66YN8A/vprv/1/go/1/ns/7fcwbtMqSDIB-7kI9Ba5DcwU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682/dover/11/n/MHdNAqOzn-McmWADyE0p/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgOtR5I_YLj5EGaSapreKUWD1TQKSLllCCe2JdfHAAzsgCIHrDt-NbV-RvVYvuK9pZkPAIIYRMiPl-N5IN7giw58rm/file/index.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsUS.yt" tvg-name="ABC News (US)" group-title="News", ABC News (US)
 https://www.youtube.com/watch?v=1oh9IEwBbFY
