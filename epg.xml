@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="NHKWorld.yt">
+    <display-name lang="en">NHK World Japan</display-name>
+  </channel>
+  <programme channel="NHKWorld.yt" start="20260424150000 +0100" stop="20260424180000 +0100">
+    <title lang="en">LIVE: NHK WORLD-JAPAN News</title>
+    <desc lang="en">Every Hour. Every Day. Live News from Japan, Asia and the World.Latest News On Demand:https://www3.nhk.or.jp/nhkworld/en/news/programs/?cid=wohk-yt-org_site_...</desc>
+    <icon src="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault.jpg?v=62ece04e"/>
+  </programme>
+  <programme channel="NHKWorld.yt" start="20260424180000 +0100" stop="20260424210000 +0100">
+    <title lang="en">LIVE: NHK WORLD-JAPAN News</title>
+    <desc lang="en">Every Hour. Every Day. Live News from Japan, Asia and the World.Latest News On Demand:https://www3.nhk.or.jp/nhkworld/en/news/programs/?cid=wohk-yt-org_site_...</desc>
+    <icon src="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault.jpg?v=62ece04e"/>
+  </programme>
+  <programme channel="NHKWorld.yt" start="20260424210000 +0100" stop="20260425000000 +0100">
+    <title lang="en">LIVE: NHK WORLD-JAPAN News</title>
+    <desc lang="en">Every Hour. Every Day. Live News from Japan, Asia and the World.Latest News On Demand:https://www3.nhk.or.jp/nhkworld/en/news/programs/?cid=wohk-yt-org_site_...</desc>
+    <icon src="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault.jpg?v=62ece04e"/>
+  </programme>
+  <programme channel="NHKWorld.yt" start="20260425000000 +0100" stop="20260425030000 +0100">
+    <title lang="en">LIVE: NHK WORLD-JAPAN News</title>
+    <desc lang="en">Every Hour. Every Day. Live News from Japan, Asia and the World.Latest News On Demand:https://www3.nhk.or.jp/nhkworld/en/news/programs/?cid=wohk-yt-org_site_...</desc>
+    <icon src="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault.jpg?v=62ece04e"/>
+  </programme>
+  <programme channel="NHKWorld.yt" start="20260425030000 +0100" stop="20260425060000 +0100">
+    <title lang="en">LIVE: NHK WORLD-JAPAN News</title>
+    <desc lang="en">Every Hour. Every Day. Live News from Japan, Asia and the World.Latest News On Demand:https://www3.nhk.or.jp/nhkworld/en/news/programs/?cid=wohk-yt-org_site_...</desc>
+    <icon src="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault.jpg?v=62ece04e"/>
+  </programme>
+  <programme channel="NHKWorld.yt" start="20260425060000 +0100" stop="20260425090000 +0100">
+    <title lang="en">LIVE: NHK WORLD-JAPAN News</title>
+    <desc lang="en">Every Hour. Every Day. Live News from Japan, Asia and the World.Latest News On Demand:https://www3.nhk.or.jp/nhkworld/en/news/programs/?cid=wohk-yt-org_site_...</desc>
+    <icon src="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault.jpg?v=62ece04e"/>
+  </programme>
+  <programme channel="NHKWorld.yt" start="20260425090000 +0100" stop="20260425120000 +0100">
+    <title lang="en">LIVE: NHK WORLD-JAPAN News</title>
+    <desc lang="en">Every Hour. Every Day. Live News from Japan, Asia and the World.Latest News On Demand:https://www3.nhk.or.jp/nhkworld/en/news/programs/?cid=wohk-yt-org_site_...</desc>
+    <icon src="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault.jpg?v=62ece04e"/>
+  </programme>
+  <programme channel="NHKWorld.yt" start="20260425120000 +0100" stop="20260425150000 +0100">
+    <title lang="en">LIVE: NHK WORLD-JAPAN News</title>
+    <desc lang="en">Every Hour. Every Day. Live News from Japan, Asia and the World.Latest News On Demand:https://www3.nhk.or.jp/nhkworld/en/news/programs/?cid=wohk-yt-org_site_...</desc>
+    <icon src="https://i.ytimg.com/vi/f0lYkdA-Gtw/maxresdefault.jpg?v=62ece04e"/>
+  </programme>
+</tv>
